@@ -1,0 +1,52 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(159): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(214): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(214): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(214): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(215): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(215): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(215): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(224): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(224): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(224): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(225): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(225): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(225): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(245): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(245): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(245): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(246): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(246): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(246): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(259): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(259): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(259): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(260): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(260): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(260): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(297): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(297): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(297): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(298): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(298): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(298): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(307): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(307): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(307): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(308): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(308): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(308): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(328): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(328): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(328): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(329): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(329): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(329): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(342): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(342): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(342): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(343): warning C4477: "printf": в строке форматирования "%.0d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(343): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(343): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\elvin\source\repos\laba1sort\laba1sort\source.cpp(190): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Laba1Sort.vcxproj -> C:\Users\Elvin\source\repos\Laba1Sort\Debug\Laba1Sort.exe

@@ -1,4 +1,4 @@
-# Quick-Insert-Shell-Selection-Sort
+# Quick-Insert-Shell-Selection-Sorts
 Quick Sort(with median-of-three); Insert Sort; Shell Sort; Selection Sort 
 
 You can read data from file to sort otherwise randomly generate it.
